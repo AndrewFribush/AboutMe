@@ -1,3 +1,15 @@
+/*
+.legalese{
+    font-size:10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    bottom: 1%;
+}
+*/
+
 body{
     background: #1dcaff;
 }
@@ -36,16 +48,6 @@ body{
     font-size: 20px;
     position: relative;
     top: 1px;
-}
-
-.legalese{
-    font-size:10px;
-    position: fixed;
-    left: 0;
-    right: 0;
-    width: 100%;
-    text-align: center;
-    bottom: 1%;
 }
 
 .meter { 
